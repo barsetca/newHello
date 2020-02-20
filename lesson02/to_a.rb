@@ -1,3 +1,3 @@
-(1..3).each do |i|
+(1..7).each do |i|
 puts i
 end
